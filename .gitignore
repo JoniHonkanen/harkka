@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/Course-Assets
 
 # testing
 /coverage
